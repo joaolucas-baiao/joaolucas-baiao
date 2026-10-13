@@ -47,4 +47,4 @@
 ## 📫 Contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao04lucas23@gmail.com)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-Meup-Perfil-blue)](https://www.beecrowd.com.br/judge/pt/profile/1293178)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-Perfil-blue)](https://www.beecrowd.com.br/judge/pt/profile/1293178)
